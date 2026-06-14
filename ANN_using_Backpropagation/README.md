@@ -22,7 +22,6 @@ This project demonstrates the core mechanics of an Artificial Neural Network (AN
 - [Results & Visualization](#-results--visualization)
 - [Scalability & Extensions](#-scalability--extensions)
 - [Troubleshooting](#-troubleshooting)
-- [References](#-references)
 
 ---
 
@@ -654,13 +653,3 @@ predictions = (y_hat > 0.5).astype(int)
 ---
 
 
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT** License. See the LICENSE file for full details.
-
----
-
-*Developed as a conceptual guide to the algorithmic mechanics of deep learning. For questions, suggestions, or collaboration, please open an issue or submit a pull request.*
