@@ -21,7 +21,6 @@
 - [How It All Fits Together](#-how-it-all-fits-together)
 - [Contributing](#-contributing)
 - [License](#-license)
-- [References](#-references)
 
 ---
 
